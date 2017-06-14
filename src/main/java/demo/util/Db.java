@@ -10,7 +10,7 @@ import java.sql.*;
  */
 public class Db {
 
-    private static final String URL = "jdbc:mysql:///?user=root&password=liweixi";
+    private static final String URL = "jdbc:mysql:///?user=root&password=system";
 
     public static Connection getConnection() {
         try {
